@@ -1,4 +1,6 @@
-# GuiaBolso Code Challenge
+[![Build Status](https://travis-ci.org/juliodias/guia-codechallenge.svg?branch=master)](https://travis-ci.org/juliodias/guia-codechallenge)
+
+# Guia Code Challenge
 
 ## Requirements:
 You should have installed Docker or Java 8+.
