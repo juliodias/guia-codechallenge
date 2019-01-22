@@ -35,6 +35,6 @@ http://localhost:8080/h2-console
 **Language:** Java 11  
 **Framework Web:** Spring Boot  
 **Build tool:** Gradle  
-**Database:** MySQL  
+**Database:** H2  
 **API Documentation:** Swagger  
 **Infraestructure Tools:** Docker, Travis CI
