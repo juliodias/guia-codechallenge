@@ -27,6 +27,10 @@ The API endpoints has a Swagger documentation and you can check them in the foll
 
 http://localhost:8080/swagger-ui.html
 
+and the database in:
+
+http://localhost:8080/h2-console
+
 ## Stack:
 **Language:** Java 11  
 **Framework Web:** Spring Boot  
